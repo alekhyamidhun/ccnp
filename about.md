@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile_pic.jpg "Profile Picture"){:.profile}
 
 I am a neuroscientist exploring the world of psychiatry, specifically mood and impulsive-compulsive disorders, to identify quantifiable bio-markers and propose mechanism-based solutions. With training in both computational and experimental approaches, The lab utilises stimulation-based approaches to probe and modulate brain networks to alter neural activity and corresponding behaviours. Supplementing the above approach, mathematical models (data-driven and computational) are developed to understand the findings better.
 
