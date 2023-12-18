@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: Research Projects
+permalink: /rp/
 main_nav: true
 ---
 
